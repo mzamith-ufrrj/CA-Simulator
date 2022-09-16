@@ -1,0 +1,6 @@
+Simulations/C++_Crowd/obj/*.o
+Simulations/C++_Game_of_Life/obj/*.o
+Simulations/C++_Crowd/obj/CA.bin
+Simulations/C++_Game_of_Life/obj/CA.bin
+Simulations/CA_py/__pycache__
+
